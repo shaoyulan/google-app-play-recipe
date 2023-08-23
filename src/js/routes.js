@@ -1,7 +1,7 @@
 
 import HomePage from '../pages/home.vue';
-import AboutPage from '../pages/about.vue';
-import FormPage from '../pages/form.vue';
+import AboutPage from '../pages/today.vue';
+import FormPage from '../pages/category.vue';
 
 
 import DynamicRoutePage from '../pages/dynamic-route.vue';
@@ -14,11 +14,11 @@ var routes = [
     component: HomePage,
   },
   {
-    path: '/about/',
+    path: '/today/',
     component: AboutPage,
   },
   {
-    path: '/form/',
+    path: '/category/',
     component: FormPage,
   },
 
