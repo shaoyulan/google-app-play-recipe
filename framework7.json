@@ -1,0 +1,18 @@
+{
+  "cwd": "C:\\Users\\ET-16\\dev-projects\\framework7-ui.git",
+  "type": [
+    "web"
+  ],
+  "name": "recipe",
+  "framework": "vue",
+  "template": "single-view",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": true,
+    "color": "#f2a30f",
+    "darkMode": false,
+    "iconFonts": false
+  },
+  "customBuild": false
+}
